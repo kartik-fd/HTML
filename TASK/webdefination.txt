@@ -1,0 +1,45 @@
+ 
+
+
+
+1) website:- a group of interlinked and well structured web pages that exist on the same domain is called website.
+		->website can contain single or thousand pages.
+
+
+2) www    :-a global network of computers using hypertext technology to create a world-wide depository of information.
+
+3)HTTP/HTTPs:-  ->HTTP stands for hypertext transfer protocol.
+		->HTTPs stands for hypertext transfer protocol secure.
+
+4)client-server:- the term client-server refers to the network architecture.where one of more computers are connected a server.
+  
+5)domain:- the set of all possible input values, which produce a valid output from a particular function.
+
+6)HOST:- a host is any device that has an ip address.
+
+
+7)HOSTING:-the service of providing the computer equipment and softwere for a website on the internet and making it available for pepole to see.
+
+
+8)FTP=>file transfer protocol :-The File Transfer Protocol is a standard communication protocol used for 
+                                the transfer of computer files from a server to a client on a computer network.
+
+
+9)path:-A path is a string of characters used to uniquely identify a location in a directory structure.
+        It is composed by following the directory tree hierarchy in which components, separated by a delimiting character, represent each directory.
+
+10)extension:-a piece of software that enhances or “extends” the capabilities of a programming language or other applications. 
+              An extension adds extra features to an already working standalone application.
+
+
+11)Editor/vscode:-
+
+12)URL-URL/URN:-URL:-uniform resource identifier 
+ 		URLs:-uniform resource locator 
+		URN:-uniform resource name 
+
+
+13)Address bar:-A text box in a web browser displaying the address of the web page that is currently being viewed.
+
+
+14)Title bar:-a horizontal bar at the top of a window, bearing the name of the program and typically the name of the currently active document.

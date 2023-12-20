@@ -1,0 +1,136 @@
+1)   Are the HTML tags and elements the same thing?
+ans) tags and elements are not same.
+	-->  tags are building blocks of html page.
+	--> elements are components that are used in html page.
+
+======================================================================================================================================
+
+2) What are tags and attributes in HTML?
+ans)  -->HTML tag starts with < and ends with >
+         -->HTML attributes are found only in the starting tag.
+
+======================================================================================================================================
+
+3) What are void elements in HTML? With Example.
+ans) -->A void element is an element in HTML that cannot have any child nodes.
+	Ex.<br>,<img>
+
+======================================================================================================================================
+
+4) What are HTML Entities? With Example.
+ans)-->HTML entities are frequently used to display reserved characters  and invisible characters .
+	Ex. <  --> &lt , > --> &gt
+
+======================================================================================================================================
+
+5) What are different types of lists in HTML? With Example.
+ans)--> three different types of list:
+	-->unorder list
+		Ex.<ul> 
+		              <li>mango</li> 
+		               <li>orange</li>
+		      </ul>
+			output:  . mango
+			                . orange
+	-->order list
+		Ex.<ol> 
+		              <li>mango</li> 
+		               <li>orange</li>
+		      </ol>
+			output:  1.mango
+			                2.orange
+	-->definition list
+
+======================================================================================================================================
+
+6) What is the ‘class’ attribute in HTML? With Example.
+ans) -->The HTML class attribute is used to specify a class for an HTML element.
+	ex.<div class=city>
+india class-->gujarat object
+
+======================================================================================================================================
+
+7) What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML
+   elements? With Example.
+ans) --> "ID"name start with  (#)  EX:  #idDemo{ color:orange;
+     			font-size:20px; }
+			
+          -->"class" start with ( . )        EX:   .classDemo{ color:orange;
+			font-size:20px; }
+
+======================================================================================================================================
+
+8) What are the various formatting tags in HTML?
+ans) -->The formatting tag can be used to set the text styles. 
+	EX:bold , italic
+
+======================================================================================================================================
+
+9) How is Cell Padding different from Cell Spacing? With Example.
+ans) -->   Cell Padding:-   Cellpadding specifies the space between the border of a table cell and its contents.
+         -->   Cell Spacing:-    Cellspacing specifies the space between cells.
+
+======================================================================================================================================
+
+10)  How can we club two or more rows or columns into a single row or column in an HTML
+   table? With Example.
+ans) -->you can merge two or more table cell in column using the colspan in a <td> 
+         --> you can merge two or more table cell in column using the rowspan in a <td>
+
+======================================================================================================================================
+
+11) What is the difference between a block-level element and an inline element?
+ans) -->a block level element always start on a new line and take up full width available. 
+         -->an inline element does not start on a new line and it only take us  much width as necessary.
+
+======================================================================================================================================
+
+12)  How to create a Hyperlink in HTML? With Example.
+ans) the <a> tag defines a hyperlink.
+	EX:   <a href="https://www.google.com"></a>
+
+======================================================================================================================================
+
+13) What is the use of an iframe tag? With Example.
+ans) --> The most common use of an iframe is to load content from another site within the page.
+	EX:<iframe src="https://www.google.com">
+
+======================================================================================================================================
+
+14) What is the use of a span tag? Explain with example?
+ans) -->
+
+======================================================================================================================================
+ 
+15) How to insert a picture into a background image of a web page? With Example.
+ans) -->  <p style="background-image: url( ' ' );">
+
+======================================================================================================================================
+
+16) How are active links different from normal links?
+ans)
+
+======================================================================================================================================
+
+17) What are the different tags to separate sections of text?
+ans)
+
+======================================================================================================================================
+
+18) What is SVG?
+ans)--> SVG stands for Scalable Vector Graphics. 
+         -->SVG defines vector based graphics in XML format example in each chapter.
+
+======================================================================================================================================
+
+19) What is difference between HTML and XHTML?
+ans)-->HTML :-- Hypertext Markup Language
+        -->XHTML :-- Extensible Hypertext Markup Language
+
+======================================================================================================================================
+
+20) What are logical and physical tags in HTML?
+ans)-->Physical tag. Used to make text bold.<b>  Logical tag. Used to display content in bold.<strong>
+
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=

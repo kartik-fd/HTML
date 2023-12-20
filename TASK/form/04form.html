@@ -1,0 +1,61 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible"
+          content="IE=edge">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+    <title>form</title>
+</head>
+ 
+<body>
+    <form>
+        <fieldset>
+            <form action="" method="post">
+            <legend>Personal Details</legend>
+            <label for="search">
+                <input type="text" name="search" placeholder="search">
+            </label>
+            <br><br>
+                <label>
+                    Salutation
+                    <br />
+                    <select name="salutation">
+                        <option>Mr.</option>
+                        <option>Ms.</option>
+                        <option>Mrs.</option>
+                        <option>Dr.</option>
+                        <option>Prof.</option>
+                    </select>
+                </label>
+                <br><br>
+                <label>First name: <input name="firstName" placeholder="First Name"/></label>
+                <br><br>
+                <label>Last name: <input name="lastName" placeholder="Last Name"/></label>
+                <br><br>
+                Gender :
+                <label><input type="radio" name="gender" value="male"/>Male </label>
+                
+                <label><input type="radio" name="gender" value="female"/>Female</label>
+                <br><br>
+                <label>Email:<input type="email" name="email" placeholder="Email" /></label>
+                <br><br>
+                <label>Date of Birth:<input type="date" name="birthDate"></label>
+                <br><br>
+                <label>
+                    Address :
+                    <!-- <textarea name="address" cols="30" rows="3"></textarea> -->
+                    <input type="text" name="address" id="address" placeholder="Address">
+                </label>
+                <br><br>
+                <label for="color" >choose color:
+                    <input type="color">
+                </label>
+                <br><br>
+                 <button type="submit">Submit</button>
+                </form>
+            </fieldset>
+    </form>
+</body>
+</html>
